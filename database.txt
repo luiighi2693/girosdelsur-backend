@@ -1,0 +1,3 @@
+jdbc:mysql://innovabitalent.com:3306/innovabi_girosur
+innovabi_girosur
+blmK9LMhLd_#
