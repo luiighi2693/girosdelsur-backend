@@ -1,0 +1,9 @@
+
+entity User {
+	firstName String,
+    lastName String,
+    email String,
+    cellphone String,
+    password String,
+	lastLogin Instant
+}
